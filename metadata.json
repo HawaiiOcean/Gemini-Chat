@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Chat Client",
+  "description": "A beautiful, minimalistic conversational interface powered by Google Gemini 3.1 Pro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
